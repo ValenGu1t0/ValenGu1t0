@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m Valentino!<br>🖥  I love music & videogames<br>📔  I'm currently mastering Javascript & Tailwind<br>🦺 I’m also looking for my first job as a Front End Developer
+# 💫 Front End React Developer Junior
+👋 Hi, I’m Valentino!<br>🖥  I love music & videogames<br>📔 I'm currently mastering Javascript & Tailwind<br>🦺 I’m also looking for my first job as a Front End Developer
 
 
 ## 🌐 Socials:
