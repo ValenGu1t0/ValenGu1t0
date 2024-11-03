@@ -1,5 +1,8 @@
-# 💫 Front End React Developer Junior
-👋 Hi, I’m Valentino!<br>🖥  I love music & videogames<br>📔 I'm currently mastering Javascript & Tailwind<br>🦺 I’m also looking for my first job as a Front End Developer
+# 💫 Front-End React Developer Junior
+👋 Hi, I’m Valentino!<br> 
+🖥 I am a Systems Analyst student and a React Developer.<br> 
+📔 I'm currently in my last year of college and improving my skills in Web Development.<br>
+🦺 I’m also looking for my first job as a Software Analyst and Developer.<br>
 
 
 ## 🌐 Socials:
