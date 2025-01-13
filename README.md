@@ -2,7 +2,7 @@
 👋 Hi, I’m Valentino!<br> 
 🖥 I am a Systems Analyst student and a React Developer.<br> 
 📔 I'm currently in my last year of college and improving my skills in Web Development.<br>
-🦺 I’m also looking for my first job as a Software Analyst and Developer.<br>
+🦺 I’m also looking for my first job as a Software Developer.<br>
 
 ## My Portfolio
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://valengu1t0.github.io/proyectos.html)
