@@ -1,4 +1,4 @@
-# 💫 Front-End React Developer Junior
+# Front-End React Developer - Systems Analyst Student
 👋 Hi, I’m Valentino!<br> 
 🖥 I am a Systems Analyst student and a React Developer.<br> 
 📔 I'm currently in my last year of college and improving my skills in Web Development.<br>
