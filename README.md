@@ -5,7 +5,7 @@
 🦺 I’m also looking for my first job as a Web Developer.<br>
 
 ## My Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://valengu1t0.github.io/proyectos.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://valentinoprivitera.netlify.app/proyectos)
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentino-privitera-52a646214)
