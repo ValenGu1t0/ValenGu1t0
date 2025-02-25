@@ -1,5 +1,5 @@
 # Front-End React Developer - Systems Analyst Student
-👋 Hi, I’m Valentino!<br> 
+👋 Hi, I’m Valentino! <br> 
 🖥 I'm a Front-End React Web Developer and a Systems Analyst student from Rosario, Argentina.<br> 
 📔 I'm currently in my last year of college and mastering my skills in Web Applications.<br>
 🦺 I’m also looking for my first job as a Web Developer.<br>
@@ -8,7 +8,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://valentinoprivitera.netlify.app/proyectos)
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentino-privitera-52a646214)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/valentino-privitera-52a646214)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:devalen543@gmail.com)
 
 # 🌐 Web Stack:
