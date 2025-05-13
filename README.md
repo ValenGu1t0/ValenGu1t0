@@ -1,8 +1,7 @@
-# Full-Stack Developer - Advanced Systems Analyst Student
+# Front-End Developer - Advanced Systems Analyst Student
 👋 Hi, I’m Valentino! <br> 
 🖥 I'm a Full-Stack Web Developer and a Systems Analyst student from Rosario, Argentina.<br> 
 📔 I'm currently in my last year of college and mastering my skills in Web Applications.<br>
-🦺 I’m also looking for my first job as a Web Developer.<br>
 
 ## 📁 My Portfolio
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://valentinoprivitera.netlify.app/proyectos)
