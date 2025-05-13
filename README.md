@@ -1,6 +1,6 @@
 # Front-End Developer - Advanced Systems Analyst Student
 👋 Hi, I’m Valentino! <br> 
-🖥 I'm a Full-Stack Web Developer and a Systems Analyst student from Rosario, Argentina.<br> 
+🖥 I'm a Front-End React Developer and a Systems Analyst student from Rosario, Argentina.<br> 
 📔 I'm currently in my last year of college and mastering my skills in Web Applications.<br>
 
 ## 📁 My Portfolio
