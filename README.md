@@ -3,10 +3,8 @@
 🖥 I'm a Front-End React & Next.js Developer and an advanced Systems Analyst student from Rosario, Argentina.<br> 
 📔 I'm currently in my last year of college and working as a freelance web developer.<br>
 
-## 📁 My Portfolio
+## 🌐 My Portfolio & Socials
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://valentinoprivitera.netlify.app/proyectos)
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentino-privitera-52a646214)
 
 ## 🖥️ Web Stack - Front-End:
