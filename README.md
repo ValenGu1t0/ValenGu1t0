@@ -1,15 +1,15 @@
-# Full-Stack Developer - Advanced Systems Analyst Student
-👋 Hi, I’m Valentino! <br> 
-🖥 I'm a Full-Stack Developer and an advanced Systems Analyst student from Rosario, Argentina.<br> 
-📔 I'm currently finishing my studies while working as a freelance web developer.<br>
+## Full-Stack Developer - Advanced Systems Analyst Student
+👋 **Hi, I’m Valentino!**<br>
+🖥 **I'm a Full-Stack Developer and an advanced Systems Analyst student from Rosario, Argentina.**<br>
+📔 **I'm currently finishing my studies while working as a freelance web developer.**<br>
 <br>
-🌐 Reach me through:
+🌐 **Reach me through**:
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/valentino-privitera-52a646214)
 
 
 
-## 🛠️ Tech Stack:
+### 🛠️ Tech Stack:
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
@@ -44,7 +44,7 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 
 
-## 💻 Other technologies:
+### 💻 Other technologies:
 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ValenGu1t0)
@@ -52,7 +52,7 @@
 [![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor)](#)
 
  
- ## 🖥 Also I have developed in:
+ ### 🖥 Also I have developed in:
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
