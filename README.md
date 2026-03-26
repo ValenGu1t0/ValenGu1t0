@@ -2,10 +2,9 @@
 👋 Hi, I’m Valentino! <br> 
 🖥 I'm a Full-Stack Developer and an advanced Systems Analyst student from Rosario, Argentina.<br> 
 📔 I'm currently finishing my studies while working as a freelance web developer.<br>
+🌐 Reach me through [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/valentino-privitera-52a646214)
 
-## 🌐 My Portfolio & Socials
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/valentino-privitera-52a646214)
 
 ## 🛠️ Tech Stack:
 
